@@ -1,4 +1,4 @@
-I’m a technical writer turned software developer. 
+> Don't write docs, develop them!
 
 ## Bio
 I’ve always had a knack for technical things so at some point I got interested in learning how to code. 
