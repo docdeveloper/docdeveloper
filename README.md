@@ -37,8 +37,8 @@ Occassionally, I publish articles and other materials related to my work, for ex
 
 - ["Coding with AI is like speed dating"](https://techwriterkoduje.pl/coding-with-ai)
 - ["Organize your team like Git"](https://techwriterkoduje.pl/git-team)
-- ["A tech writing CCMS can also be a broken promise"](https://techwriterkoduje.pl/broken-promise) (co-authored with with @pensjonatus)
-- ["DITA as code - a modern approach to the classic standard"](https://techwriterkoduje.pl/dita-as-code)
+- ["A tech writing CCMS can also be a broken promise"](https://techwriterkoduje.pl/broken-promise) (co-authored with [Pawel Kowaluk](https://github.com/pensjonatus))
+- ["DITA as code - a modern approach to the classic standard"](https://techwriterkoduje.pl/dita-as-code) (co-authored with [Pawel Kowaluk](https://github.com/pensjonatus))
 - ["Golden rules for writing docs"](https://techwriterkoduje.pl/golden-rules) (infographic)
 - [“Tech Writer codes in Python” (in Polish)](https://techwriterkoduje.pl/python/teoria) (short guide for tech writers who want to start coding in Python) 
 
